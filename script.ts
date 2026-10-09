@@ -26,3 +26,8 @@ function Hero() {
   }
   
   export default Hero;
+
+
+
+  //hello i am  making changes to my typescript file to show it works
+  
